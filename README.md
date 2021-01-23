@@ -11,7 +11,7 @@ Uptime Actions is split into:
 ## Quickstart
 
 ```bash
-npx -q uptime-actions > monitors.config.js
+npx uptime-actions@latest > monitors.config.js
 ```
 
 ## Running
