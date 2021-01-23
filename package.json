@@ -1,0 +1,16 @@
+{
+    "name": "uptime-actions",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:KhushrajRathod/UptimeActionsCLI.git",
+    "author": "Khushraj Rathod <khushraj.rathod@gmail.com>",
+    "license": "GPL-3.0",
+    "bin": "index.js",
+    "dependencies": {
+        "csv-parser": "^3.0.0",
+        "yargs": "^16.2.0"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
