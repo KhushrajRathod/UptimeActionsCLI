@@ -105,3 +105,6 @@ dist
 
 # Uptimerobot
 uptimerobot-monitors.csv
+
+# Output
+monitors.config.js
