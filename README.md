@@ -1,0 +1,2 @@
+# UptimeActionsCLI
+CLI For UptimeActions
