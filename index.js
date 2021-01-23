@@ -41,7 +41,7 @@ createReadStream(argv.file)
         }
         defaultConfig.endpoints = construct
         console.log(
-            "export default " +
+            "module.exports = " +
             util.inspect(defaultConfig, {
                 showHidden: false,
                 depth: null,

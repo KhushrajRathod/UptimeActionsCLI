@@ -1,6 +1,6 @@
 {
     "name": "uptime-actions",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "main": "index.js",
     "repository": "git@github.com:KhushrajRathod/UptimeActionsCLI.git",
     "author": "Khushraj Rathod <khushraj.rathod@gmail.com>",
