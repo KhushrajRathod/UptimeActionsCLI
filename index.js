@@ -45,7 +45,6 @@ createReadStream(argv.file)
             util.inspect(defaultConfig, {
                 showHidden: false,
                 depth: null,
-                colors: true,
                 compact: false
             })
         )
